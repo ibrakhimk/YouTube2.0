@@ -1,4 +1,4 @@
-package com.example.youtube
+package com.example.youtube.utils
 
 import android.annotation.SuppressLint
 import android.app.Application
